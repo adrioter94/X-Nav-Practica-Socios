@@ -7,4 +7,4 @@ Vamos a construir parte del interfaz de usuario de la aplicación Socios, una nu
 
 ## Try me
 
-[Try me!](https://adrioter94.github.io/X-Nav-Practica-Socios/index.html)
+En gh-pages.
